@@ -15,3 +15,9 @@ macOS 10.14 (Mojave)
 1.7 for not advanced users - Requires Java
 - *Build is not complete.*
 [![Alt text](https://raw.githubusercontent.com/NVTechKorea/MacHiddenUserUtil/master/rs/btn_download.png)](https://idioms.thefreedictionary.com/not+done)
+
+# Supported Languages
+- English (Default)
+  - Default.
+- Korean
+  - When run, use argument: lang=kr
